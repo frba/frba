@@ -11,7 +11,6 @@ Welcome to my GitHub profile. I am a developer and bioinformatician based in Mon
 ### 🛠️ Technologies & Tools
 - **Languages:** Python, C++, HTML
 - **Frameworks & Environments:** Django, Jupyter Notebooks
-- **Specialized Domain Tools:** Primer3, Bowtie, Momentum
 - **Other Interests:** Reading, playing video games, and VR
 
 ### 📫 Let's Connect
